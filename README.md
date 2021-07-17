@@ -76,6 +76,8 @@ Example of the valid map:
 
 The goal of every level is to kill all the enemies. You have 3 lives and general HP and Ammo for the whole game. After completion of every lvl the enemies damage is getting increased by 2. There are some secret doors in every lvl, hiding some useful things like ammo. To open secret door you need to stand close to it and press 'E' on the keyboard. If you want to get back control of cursor just press 'P'. Press 'P' again to return control of the game. At the end of the game you recieve your final score in the terminal.
 
-In the following screenshot there are 3 enemies, 1 of which is sees player and is trying to attack him right now:
-
 <img width="1024" alt="Screen Shot 2021-07-17 at 12 28 16 PM" src="https://user-images.githubusercontent.com/74947297/126032736-11d579da-be32-442e-92f1-b6a7bfec6157.png">
+
+<img width="1021" alt="Screen Shot 2021-07-17 at 5 06 10 PM" src="https://user-images.githubusercontent.com/74947297/126039613-17840327-033c-4ee5-b09c-acba2dd842b0.png">
+
+<img width="1024" alt="Screen Shot 2021-07-17 at 5 08 04 PM" src="https://user-images.githubusercontent.com/74947297/126039625-de72945a-eee8-44c0-8b49-d4e8eb200a31.png">
